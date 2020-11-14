@@ -1,0 +1,3 @@
+include melee/framedata.csv
+include melee/actiondata.csv
+include melee/characterdata.csv
